@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneDerry
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html,css and javascript.
 - 💞️ I’m looking to collaborate on amazing websites
 - 📫 How to reach me olomu2001@gmail.com, 08130218538
 
