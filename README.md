@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OneDerry
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css and javascript.
+- 🌱 I’m currently learning Typescript, Redux and Api integration, React Native.
 - 💞️ I’m looking to collaborate on amazing websites
-- 📫 How to reach me olomu2001@gmail.com, 08130218538
+- 📫 How to reach me mesiri.dev@gmail.com or olomu2001@gmail.com, 08130218538
 
 <!---
 OneDerry/OneDerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
