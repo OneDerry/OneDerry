@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OneDerry
+- 👋 Hi, I’m Mesiri
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Typescript, Redux and Api integration, React Native.
 - 💞️ I’m looking to collaborate on amazing websites
