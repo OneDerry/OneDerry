@@ -3,7 +3,8 @@
 I’m a Frontend Developer passionate about building clean, user-friendly, and efficient web applications.  
 
 ## My Interests  
-- Frontend development (React, TypeScript, Redux, Tailwind CSS)  
+- Frontend development (React, TypeScript, Redux, Tailwind CSS) 
+- Laravel PHP
 - Web3 and blockchain development (with interest in the Sui network)  
 - Mobile development with React Native and Swift (learning)  
 - Exploring software engineering concepts and continuous improvement  
@@ -16,7 +17,7 @@ I’m a Frontend Developer passionate about building clean, user-friendly, and e
 - Swift (for iOS frontend development)  
 
 ## Professional Experience  
-- 2 years of professional experience as a **Frontend Developer**  
+- 3 years of professional experience as a **Frontend Developer**  
 - Built the **full front-end of an Asset Management System** for *Fourcore Integrated Services*  
 - Built the **full front-end of Change for Humanity** for *Fourcore Integrated Services*  (https://changeforhumanity.org)
 - Worked on **endpoint consumption** for an HRIS project  
